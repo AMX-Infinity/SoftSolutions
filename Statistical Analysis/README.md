@@ -1,10 +1,10 @@
 AMX CryptoCoder
 ===============
 
-The executable for AMX CryptoCoder.
+The executable for Statistical Analysis.
 
 ##Details
-All in one suite for encoding/decoding in base64 and encryption/decryption of text and files supporting 78 different flavors of popular encryption algorithms.
+A simple minimalistic program written to help you solve tedious statistics with ease.
 
 ##Author
 ###[Afaan Bilal](https://google.com/+AfaanBilal)

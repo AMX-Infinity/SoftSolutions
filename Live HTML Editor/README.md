@@ -1,10 +1,10 @@
-AMX CryptoCoder
+Live HTML Editor
 ===============
 
-The executable for AMX CryptoCoder.
+The executable for Live HTML Editor.
 
 ##Details
-All in one suite for encoding/decoding in base64 and encryption/decryption of text and files supporting 78 different flavors of popular encryption algorithms.
+A good HTML, CSS Editor with fully customizable editor and strong syntax highlighting and tabbed editing features.
 
 ##Author
 ###[Afaan Bilal](https://google.com/+AfaanBilal)
