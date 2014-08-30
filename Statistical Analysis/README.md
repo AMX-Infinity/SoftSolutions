@@ -1,5 +1,5 @@
-AMX CryptoCoder
-===============
+Statistical Analysis
+====================
 
 The executable for Statistical Analysis.
 
