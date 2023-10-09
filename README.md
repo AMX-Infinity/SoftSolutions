@@ -1,13 +1,8 @@
 SoftSolutions
 =============
 
-The binaries for the software solutions by Afaan Bilal freely available to all.
+The binaries for some software solutions freely available to all.
 
-##Author
-###[Afaan Bilal](https://google.com/+AfaanBilal)
-
-##Official Website
-###[AMX Infinity](http://www.amxinfinity.tk)
-
+Author: [Afaan Bilal](https://afaan.dev)
 
 For any clarifications, license details, or any queries, please contact the author.
